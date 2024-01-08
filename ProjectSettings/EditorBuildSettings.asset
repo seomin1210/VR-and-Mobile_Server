@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/1. Scenes/SonSeongBinTest.unity
+    guid: 872f52bc0854a3444a504a01f6b39c2a
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 774dcf04530cc98419daa8390d74a157, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 513d66b15a544f04fb8333ab90e7b527, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 5fa557bbfbda79a45afa0f92669361cd, type: 2}
